@@ -1,0 +1,23 @@
+# Secrets — never commit
+.env
+*.key
+credentials.json
+service-account*.json
+token*.json
+
+# Raw / personal data
+*.csv
+*.json
+!sample_output.csv
+!workflow.json
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
