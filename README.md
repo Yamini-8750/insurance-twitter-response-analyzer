@@ -4,9 +4,6 @@ Automatically measures how fast insurance companies respond to customer complain
 
 > **Impact:** Replaced a manual process (visiting each tweet, eyeballing timestamps, recording gaps by hand) that was slow, error-prone, and capped at tiny sample sizes. The pipeline now reads full complaint threads, identifies insurer replies, computes response times, and exports a scoring-ready CSV — **~150 complaint threads processed in one run for under $2**, at effectively zero cost for the first ~650 threads.
 
-<!-- Add a 60–90s Loom demo link here — it's the single most convincing asset -->
-**▶️ Demo:** _add your Loom link_
-
 ---
 
 ## What it does
